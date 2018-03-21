@@ -1,7 +1,7 @@
 {
-  "name": "PunchMeter",
-  "short_name": "PunchMeter",
-  "description": "Web application measuring speed of the punch",
+  "name": "PunchMe",
+  "short_name": "PunchMe",
+  "description": "Web application measuring acc. sensor speed of the punch",
   "display": "standalone",
   "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF",
